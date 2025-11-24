@@ -1,5 +1,5 @@
 dotnet new console -o AgentFrameworkQuickStart
-cd AgentFramework_FunctionRequerid
+cd AgentFramework_ChatClientAgent
 dotnet new gitignore
 
 dotnet add package Azure.AI.OpenAI --prerelease
